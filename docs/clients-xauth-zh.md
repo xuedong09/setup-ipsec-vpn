@@ -11,9 +11,9 @@
 ---
 * 平台名称
   * [Windows](#windows)
-  * [OS X](#os-x)
+  * [OS X (macOS)](#os-x)
   * [Android](#android)
-  * [iOS](#ios)
+  * [iOS (iPhone/iPad)](#ios)
 
 ### Windows ###
 
@@ -65,7 +65,7 @@ VPN 连接成功后，会在 VPN Connect 状态窗口中显示 **tunnel enabled*
 1. 选中 **在菜单栏中显示 VPN 状态** 复选框。
 1. 单击 **应用** 保存VPN连接信息。
 
-要连接到 VPN，你可以使用菜单栏中的 VPN 图标，或者在系统偏好设置的网络部分选择 VPN，并单击 **连接**。最后你可以到<a href="https://www.whatismyip.com" target="_blank">这里</a>检测你的 IP 地址，应该显示为`你的 VPN 服务器 IP`。
+要连接到 VPN： 使用菜单栏中的图标，或者打开系统偏好设置的网络部分，选择 VPN 并单击 **连接**。最后你可以到<a href="https://www.whatismyip.com" target="_blank">这里</a>检测你的 IP 地址，应该显示为`你的 VPN 服务器 IP`。
 
 ### Android ###
 1. 启动 **设置** 应用程序。
